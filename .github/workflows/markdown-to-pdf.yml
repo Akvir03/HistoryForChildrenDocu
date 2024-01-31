@@ -3,7 +3,7 @@ name: Convert Markdown to PDF
 on:
   push:
     paths:
-      - 'documentation/doc.md'
+      - 'doc.md'
 
 jobs:
   convert-to-pdf:
@@ -25,4 +25,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: Document PDF
-        path: documentation/doc.pdf
+        path: doc.pdf
