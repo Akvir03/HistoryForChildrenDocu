@@ -9,9 +9,9 @@ Titre: History for Children
 
 Ce jeu est pour tout les intéressés de l'histoire ! Conseillé pour les enfants de 10 à 12 ans, cette aventure vous emmène à travers trois époques de notre civilisation !
 
-- La Préhistoire !
-- L'Antiquité !
-- Le Moyen-Âge !
+- La Préhistoire
+- L'Antiquité
+- Le Moyen-Âge
 
 Voyagez à travers ces époques et intéragissez avec le monde pour en apprendre plus !
 
